@@ -1,10 +1,10 @@
 # lista_de_tarefas
 
-
-<img src="./flutter-todo1.jpeg" width="250" >
-<img src="./flutter-todo2.jpeg" width="250" >
-<img src="./flutter-todo3.jpeg" width="250" >
-
+<div style="display: flex; flex-direction: row;">
+  <img src="./flutter-todo1.jpeg" width="250" >
+  <img src="./flutter-todo2.jpeg" width="250" >
+  <img src="./flutter-todo3.jpeg" width="250" >
+</div>
 
 A new Flutter application.
 
