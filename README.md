@@ -1,22 +1,9 @@
 # lista_de_tarefas
 
+In this app it is possible to create tasks, mark them as completed, delete and update the list by placing the pending ones to the beginning of the list.
+
 <div style="display: flex; flex-direction: row;">
   <img src="./flutter-todo1.jpeg" width="250" >
   <img src="./flutter-todo2.jpeg" width="250" >
   <img src="./flutter-todo3.jpeg" width="250" >
 </div>
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
